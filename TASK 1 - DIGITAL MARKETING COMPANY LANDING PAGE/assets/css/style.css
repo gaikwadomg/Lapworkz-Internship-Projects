@@ -20,21 +20,21 @@
    * colors
    */
 
-  --safety-orange: hsl(25, 100%, 50%);
-  --lavender-gray: hsl(230, 19%, 81%);
-  --persian-rose: hsl(328, 100%, 59%);
+  --safety-orange: hsl(119, 100%, 50%);
+  --lavender-gray: hsl(233, 82%, 2%);
+  --persian-rose: hsl(231, 68%, 48%);
   --red-crayola: hsl(341, 100%, 49%);
-  --eerie-black: hsl(240, 6%, 10%);
-  --light-gray: hsl(0, 0%, 80%);
-  --cultured-2: hsl(210, 60%, 98%);
-  --platinum: hsl(0, 0%, 90%);
+  --eerie-black: hsl(240, 40%, 96%);
+  --light-gray: hsl(0, 2%, 27%);
+  --cultured-2: hsl(0, 0%, 93%);
+  --platinum: hsl(0, 7%, 6%);
   --gray-web: hsl(220, 5%, 49%);
-  --cultured: hsl(0, 0%, 93%);
-  --black_10: hsla(0, 0%, 0%, 0.1);
-  --black_5: hsla(0, 0%, 0%, 0.05);
-  --white-1: hsl(0, 0%, 100%);
-  --white-2: hsl(0, 14%, 98%);
-  --black: hsl(0, 0%, 0%);
+  --cultured: hsl(0, 3%, 48%);
+  --black_10: hsla(0, 2%, 51%, 0.1);
+  --black_5: hsla(0, 11%, 36%, 0.05);
+  --white-1: hsl(0, 17%, 7%);
+  --white-2: hsl(0, 0%, 0%);
+  --black: hsl(0, 0%, 100%);
 
   /**
    * gradient color
@@ -1174,4 +1174,15 @@ textarea.input-field {
 
   .contact-card .card-icon { padding: 15px; }
 
+}
+
+.logoImg{
+  height: 7.5rem;
+  width: 7.5rem;
+
+}
+
+.flx{
+  display: flex;
+  align-items: center;
 }
