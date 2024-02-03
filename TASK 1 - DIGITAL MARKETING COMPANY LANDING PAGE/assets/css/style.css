@@ -1186,3 +1186,7 @@ textarea.input-field {
   display: flex;
   align-items: center;
 }
+
+.white-text{
+  color: white;
+}
